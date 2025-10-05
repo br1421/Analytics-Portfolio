@@ -11,6 +11,6 @@ It has two components:
 
 In order to implement this you'll need to download the tables and relate them (if you want to).
 
-After that you'll be able to run the queries on your environment by copy and paste.
+After that you'll be able to run the queries on your environment by copy and paste. Just consider the aliases of the table! You may have to change them!
 
 Enjoy the study!
