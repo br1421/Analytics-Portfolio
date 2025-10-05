@@ -1,0 +1,632 @@
+region;state;city;country;postal_code
+South;Florida;Jupiter;United States;33458
+South;Georgia;Columbus;United States;31907
+Central;Minnesota;Moorhead;United States;56560
+West;Nevada;Reno;United States;89502
+Central;Illinois;Peoria;United States;61604
+West;Washington;Bellevue;United States;98006
+Central;Texas;Deer Park;United States;77536
+Central;Oklahoma;Broken Arrow;United States;74012
+West;California;San Diego;United States;92037
+West;California;Citrus Heights;United States;95610
+South;North Carolina;Chapel Hill;United States;27514
+West;Wyoming;Cheyenne;United States;82001
+Central;Texas;Allen;United States;75002
+East;Massachusetts;Marlborough;United States;1752
+Central;Texas;Odessa;United States;79762
+West;California;Huntington Beach;United States;92646
+Central;Texas;Haltom City;United States;76117
+West;California;Manteca;United States;95336
+Central;Wisconsin;Franklin;United States;53132
+Central;Texas;College Station;United States;77840
+Central;Indiana;Mishawaka;United States;46544
+Central;Michigan;Trenton;United States;48183
+East;New York;Auburn;United States;13021
+Central;Michigan;Taylor;United States;48180
+Central;Illinois;Chicago;United States;60653
+West;Oregon;Gresham;United States;97030
+East;New Jersey;Plainfield;United States;7060
+Central;Michigan;Saginaw;United States;48601
+South;Virginia;Hampton;United States;23666
+West;California;San Bernardino;United States;92404
+East;New Jersey;Westfield;United States;7090
+East;New York;Watertown;United States;13601
+West;Utah;Murray;United States;84107
+East;New Jersey;Clifton;United States;7011
+Central;Indiana;New Castle;United States;47362
+West;Idaho;Lewiston;United States;83501
+Central;Kansas;Garden City;United States;67846
+West;California;Santa Ana;United States;92704
+Central;Wisconsin;La Crosse;United States;54601
+South;North Carolina;Monroe;United States;28110
+South;Florida;North Miami;United States;33161
+East;Ohio;Mentor;United States;44060
+West;Oregon;Springfield;United States;97477
+Central;Texas;Pearland;United States;77581
+West;Arizona;Yuma;United States;85364
+West;California;Laguna Niguel;United States;92677
+Central;Texas;Bedford;United States;76021
+Central;Wisconsin;Sheboygan;United States;53081
+West;California;Dublin;United States;94568
+East;West Virginia;Wheeling;United States;26003
+South;South Carolina;Summerville;United States;29483
+East;New Jersey;Morristown;United States;7960
+East;Ohio;Akron;United States;44312
+South;Tennessee;Smyrna;United States;37167
+East;New York;New York City;United States;10011
+East;Pennsylvania;York;United States;17403
+East;Ohio;Newark;United States;43055
+South;Florida;Fort Lauderdale;United States;33311
+Central;Texas;Conroe;United States;77301
+Central;Illinois;Rockford;United States;61107
+East;Pennsylvania;Allentown;United States;18103
+Central;Illinois;Bloomington;United States;61701
+West;New Mexico;Albuquerque;United States;87105
+West;Nevada;Sparks;United States;89431
+Central;Illinois;Chicago;United States;60623
+East;New Jersey;Bayonne;United States;7002
+Central;Indiana;Bloomington;United States;47401
+West;Oregon;Salem;United States;97301
+South;North Carolina;Thomasville;United States;27360
+Central;Texas;Amarillo;United States;79109
+West;Utah;Provo;United States;84604
+West;Colorado;Broomfield;United States;80020
+West;Washington;Spokane;United States;99207
+Central;Nebraska;Norfolk;United States;68701
+East;Maine;Lewiston;United States;4240
+Central;Texas;Grapevine;United States;76051
+West;California;Redondo Beach;United States;90278
+Central;Texas;Houston;United States;77036
+Central;Oklahoma;Edmond;United States;73034
+Central;Missouri;Kirkwood;United States;63122
+Central;Iowa;Cedar Rapids;United States;52402
+West;California;Brentwood;United States;94513
+East;New Jersey;Atlantic City;United States;8401
+South;Alabama;Florence;United States;35630
+East;New Jersey;New Brunswick;United States;8901
+South;North Carolina;Wilmington;United States;28403
+South;North Carolina;Charlotte;United States;28205
+West;Oregon;Redmond;United States;97756
+West;California;Montebello;United States;90640
+West;Washington;Pasco;United States;99301
+East;Ohio;Fairfield;United States;45014
+South;Georgia;Athens;United States;30605
+Central;Illinois;Danville;United States;61832
+South;Florida;Miami;United States;33142
+South;Alabama;Tuscaloosa;United States;35401
+South;Arkansas;Texarkana;United States;71854
+South;Virginia;Newport News;United States;23602
+East;Massachusetts;Franklin;United States;2038
+East;Pennsylvania;Philadelphia;United States;19134
+West;Montana;Missoula;United States;59801
+Central;Illinois;Quincy;United States;62301
+West;California;Los Angeles;United States;90045
+West;Nevada;Henderson;United States;89015
+Central;Illinois;Saint Charles;United States;60174
+South;Arkansas;Springdale;United States;72762
+Central;Iowa;Des Moines;United States;50315
+East;New Jersey;Passaic;United States;7055
+Central;Michigan;Royal Oak;United States;48073
+South;Virginia;Harrisonburg;United States;22801
+Central;Oklahoma;Muskogee;United States;74403
+East;Maine;Bangor;United States;4401
+West;New Mexico;Farmington;United States;87401
+South;Florida;Pembroke Pines;United States;33024
+South;South Carolina;North Charleston;United States;29406
+West;California;Inglewood;United States;90301
+Central;Texas;Laredo;United States;78041
+Central;Oklahoma;Oklahoma City;United States;73120
+South;Arkansas;Pine Bluff;United States;71603
+West;Colorado;Greeley;United States;80634
+Central;Texas;Pharr;United States;78577
+South;Florida;Apopka;United States;32712
+Central;Texas;Carrollton;United States;75007
+South;Alabama;Hoover;United States;35244
+Central;Michigan;Lansing;United States;48911
+South;Florida;Saint Petersburg;United States;33710
+East;New York;Rome;United States;13440
+Central;Oklahoma;Lawton;United States;73505
+East;Maryland;Baltimore;United States;21215
+Central;Indiana;Noblesville;United States;46060
+South;Louisiana;Kenner;United States;70065
+South;Tennessee;Clarksville;United States;37042
+South;South Carolina;Columbia;United States;29203
+South;Tennessee;Knoxville;United States;37918
+South;North Carolina;Goldsboro;United States;27534
+Central;Texas;San Antonio;United States;78207
+South;Virginia;Waynesboro;United States;22980
+West;Washington;Edmonds;United States;98026
+Central;Wisconsin;West Allis;United States;53214
+Central;Texas;Port Arthur;United States;77642
+West;California;San Mateo;United States;94403
+East;Pennsylvania;Bethlehem;United States;18018
+West;California;Murrieta;United States;92563
+East;Maryland;Rockville;United States;20852
+South;North Carolina;Jacksonville;United States;28540
+East;New York;Long Beach;United States;11561
+West;California;Mission Viejo;United States;92691
+Central;Oklahoma;Tulsa;United States;74133
+East;District of Columbia;Washington;United States;20016
+West;California;San Francisco;United States;94109
+South;North Carolina;Greenville;United States;27834
+Central;Texas;Mansfield;United States;76063
+West;California;Burbank;United States;91505
+West;California;El Cajon;United States;92020
+East;Ohio;Hamilton;United States;45011
+Central;Indiana;Lawrence;United States;46226
+East;Ohio;Toledo;United States;43615
+East;Rhode Island;Providence;United States;2908
+South;Florida;Tamarac;United States;33319
+West;New Mexico;Rio Rancho;United States;87124
+South;Kentucky;Owensboro;United States;42301
+Central;Michigan;Rochester Hills;United States;48307
+Central;Wisconsin;Superior;United States;54880
+East;Ohio;Grove City;United States;43123
+Central;Indiana;Greenwood;United States;46142
+West;Montana;Billings;United States;59102
+East;New York;Niagara Falls;United States;14304
+East;New Jersey;Linden;United States;7036
+Central;Texas;Waco;United States;76706
+West;California;Lakewood;United States;90712
+West;Washington;Bellingham;United States;98226
+Central;Texas;Austin;United States;78745
+East;Massachusetts;Beverly;United States;1915
+Central;Texas;Round Rock;United States;78664
+Central;Texas;Beaumont;United States;77705
+West;California;Fresno;United States;93727
+Central;Wisconsin;Kenosha;United States;53142
+Central;Illinois;Normal;United States;61761
+East;Connecticut;Milford;United States;6460
+West;Utah;Lehi;United States;84043
+East;New York;New Rochelle;United States;10801
+Central;Minnesota;Roseville;United States;55113
+Central;Minnesota;Woodbury;United States;55125
+South;Arkansas;Hot Springs;United States;71901
+East;Connecticut;Waterbury;United States;6708
+West;California;Torrance;United States;90503
+South;Florida;Hollywood;United States;33021
+West;California;Rancho Cucamonga;United States;91730
+West;Washington;Vancouver;United States;98661
+West;California;Santa Maria;United States;93454
+West;California;Camarillo;United States;93010
+Central;Indiana;La Porte;United States;46350
+East;Massachusetts;New Bedford;United States;2740
+East;New Hampshire;Dover;United States;3820
+Central;Texas;El Paso;United States;79907
+East;New Hampshire;Concord;United States;3301
+South;Florida;Margate;United States;33063
+West;California;Temecula;United States;92592
+East;Pennsylvania;Philadelphia;United States;19120
+West;California;Antioch;United States;94509
+West;Colorado;Longmont;United States;80501
+South;Tennessee;Bristol;United States;37620
+South;Arkansas;Jonesboro;United States;72401
+West;California;Los Angeles;United States;90004
+Central;Texas;Bryan;United States;77803
+South;Tennessee;Hendersonville;United States;37075
+East;Massachusetts;Holyoke;United States;1040
+West;California;Thousand Oaks;United States;91360
+East;Ohio;Cuyahoga Falls;United States;44221
+Central;Illinois;Park Ridge;United States;60068
+South;Florida;Pompano Beach;United States;33068
+Central;Michigan;Westland;United States;48185
+East;New York;Hempstead;United States;11550
+West;Arizona;Phoenix;United States;85023
+South;Arkansas;Conway;United States;72032
+East;Ohio;Mason;United States;45040
+West;California;Westminster;United States;92683
+Central;Wisconsin;Eau Claire;United States;54703
+East;New York;Yonkers;United States;10701
+West;Colorado;Commerce City;United States;80022
+East;New Jersey;Vineland;United States;8360
+East;Pennsylvania;Chester;United States;19013
+Central;Iowa;Iowa City;United States;52240
+Central;Texas;Edinburg;United States;78539
+Central;Texas;Missouri City;United States;77489
+West;Arizona;Gilbert;United States;85234
+South;Georgia;Sandy Springs;United States;30328
+West;Utah;Draper;United States;84020
+Central;Michigan;Detroit;United States;48234
+West;California;Santa Clara;United States;95051
+East;Vermont;Burlington;United States;5408
+West;California;San Jose;United States;95123
+Central;Texas;Houston;United States;77070
+South;Florida;Delray Beach;United States;33445
+West;California;Coachella;United States;92236
+South;Virginia;Suffolk;United States;23434
+West;California;Stockton;United States;95207
+East;Maryland;Columbia;United States;21044
+South;Louisiana;Monroe;United States;71203
+South;Florida;Boca Raton;United States;33433
+West;California;Lodi;United States;95240
+West;California;Costa Mesa;United States;92627
+West;Washington;Olympia;United States;98502
+West;Colorado;Louisville;United States;80027
+West;Washington;Seattle;United States;98105
+Central;Oklahoma;Norman;United States;73071
+Central;Kansas;Olathe;United States;66062
+South;Florida;Daytona Beach;United States;32114
+South;Alabama;Mobile;United States;36608
+South;Georgia;Smyrna;United States;30080
+West;Montana;Helena;United States;59601
+West;Arizona;Chandler;United States;85224
+East;Ohio;Cincinnati;United States;45231
+South;Florida;Coral Springs;United States;33065
+Central;Michigan;Holland;United States;49423
+East;Delaware;Wilmington;United States;19805
+South;North Carolina;Burlington;United States;27217
+West;California;Whittier;United States;90604
+South;North Carolina;Gastonia;United States;28052
+East;New Jersey;Lakewood;United States;8701
+East;Ohio;Lorain;United States;44052
+Central;Texas;Houston;United States;77095
+West;California;Danville;United States;94526
+West;Oregon;Eugene;United States;97405
+Central;Illinois;Bolingbrook;United States;60440
+Central;Michigan;Dearborn Heights;United States;48127
+Central;Illinois;Wheeling;United States;60090
+Central;Missouri;Springfield;United States;65807
+South;Florida;West Palm Beach;United States;33407
+West;Arizona;Sierra Vista;United States;85635
+South;Florida;Kissimmee;United States;34741
+West;Washington;Seattle;United States;98115
+Central;Texas;La Porte;United States;77571
+South;Mississippi;Southaven;United States;38671
+East;New Jersey;Orange;United States;7050
+South;Tennessee;Bartlett;United States;38134
+South;Virginia;Salem;United States;24153
+West;California;Lake Elsinore;United States;92530
+East;Ohio;Dublin;United States;43017
+Central;South Dakota;Rapid City;United States;57701
+West;Colorado;Pueblo;United States;81001
+Central;Missouri;Columbia;United States;65203
+Central;Texas;Dallas;United States;75217
+Central;Iowa;Urbandale;United States;50322
+South;Florida;Orlando;United States;32839
+West;Colorado;Aurora;United States;80013
+West;Idaho;Twin Falls;United States;83301
+West;Montana;Bozeman;United States;59715
+East;New Hampshire;Nashua;United States;3060
+Central;Illinois;Skokie;United States;60076
+West;Arizona;Avondale;United States;85323
+South;Florida;Miami;United States;33180
+East;Massachusetts;Malden;United States;2148
+East;Massachusetts;Quincy;United States;2169
+Central;Indiana;Richmond;United States;47374
+West;California;Apple Valley;United States;92307
+Central;Texas;Huntsville;United States;77340
+West;California;Vallejo;United States;94591
+Central;Wisconsin;Green Bay;United States;54302
+Central;Missouri;Saint Louis;United States;63116
+West;Washington;Renton;United States;98059
+South;Florida;Plantation;United States;33317
+West;California;Bakersfield;United States;93309
+West;California;Los Angeles;United States;90036
+South;Kentucky;Florence;United States;41042
+East;New Jersey;Hackensack;United States;7601
+Central;Texas;San Marcos;United States;78666
+West;Washington;Redmond;United States;98052
+West;California;Oceanside;United States;92054
+Central;Michigan;Jackson;United States;49201
+East;New Jersey;Bridgeton;United States;8302
+West;California;Santa Barbara;United States;93101
+East;Delaware;Newark;United States;19711
+South;Florida;Tampa;United States;33614
+East;Maryland;Laurel;United States;20707
+East;Massachusetts;Lowell;United States;1852
+Central;Illinois;Woodstock;United States;60098
+West;Washington;Des Moines;United States;98198
+Central;Wisconsin;Wausau;United States;54401
+West;Idaho;Boise;United States;83704
+Central;Minnesota;Lakeville;United States;55044
+East;New York;Troy;United States;12180
+South;Kentucky;Henderson;United States;42420
+East;Massachusetts;Cambridge;United States;2138
+East;Rhode Island;Cranston;United States;2920
+South;Florida;Port Orange;United States;32127
+West;California;San Diego;United States;92105
+West;Colorado;Fort Collins;United States;80525
+West;California;Sunnyvale;United States;94086
+Central;Indiana;Columbus;United States;47201
+South;North Carolina;Fayetteville;United States;28314
+South;Tennessee;Franklin;United States;37064
+Central;Texas;Arlington;United States;76017
+Central;Texas;Pasadena;United States;77506
+West;California;Ontario;United States;91761
+South;Mississippi;Gulfport;United States;39503
+East;Connecticut;Meriden;United States;6450
+West;Washington;Longview;United States;98632
+East;Ohio;Lancaster;United States;43130
+South;Florida;Homestead;United States;33030
+Central;Michigan;Midland;United States;48640
+West;Washington;Everett;United States;98208
+Central;Michigan;Detroit;United States;48205
+South;Arkansas;Little Rock;United States;72209
+Central;Illinois;Elmhurst;United States;60126
+South;Alabama;Auburn;United States;36830
+West;California;Redlands;United States;92374
+West;California;Hesperia;United States;92345
+Central;Michigan;Dearborn;United States;48126
+Central;Texas;Baytown;United States;77520
+South;Alabama;Decatur;United States;35601
+East;Ohio;Elyria;United States;44035
+Central;Minnesota;Coon Rapids;United States;55433
+Central;Illinois;Chicago;United States;60610
+South;Georgia;Atlanta;United States;30318
+East;New York;New York City;United States;10009
+South;Florida;Miramar;United States;33023
+West;California;Morgan Hill;United States;95037
+West;Arizona;Peoria;United States;85345
+Central;Texas;Tyler;United States;75701
+West;California;Redding;United States;96003
+Central;Nebraska;Omaha;United States;68104
+West;California;San Diego;United States;92024
+West;California;Roseville;United States;95661
+Central;Indiana;Elkhart;United States;46514
+West;Washington;Seattle;United States;98103
+Central;Texas;Texas City;United States;77590
+East;Ohio;Kent;United States;44240
+South;North Carolina;Asheville;United States;28806
+Central;Texas;League City;United States;77573
+West;California;Chula Vista;United States;91911
+Central;Texas;Grand Prairie;United States;75051
+Central;Illinois;Des Plaines;United States;60016
+Central;Minnesota;Maple Grove;United States;55369
+East;Connecticut;Danbury;United States;6810
+East;Ohio;Springfield;United States;45503
+West;Montana;Great Falls;United States;59405
+Central;Texas;Brownsville;United States;78521
+Central;Illinois;Evanston;United States;60201
+East;New York;Buffalo;United States;14215
+South;Virginia;Springfield;United States;22153
+South;Arkansas;Rogers;United States;72756
+Central;Illinois;Highland Park;United States;60035
+West;Colorado;Loveland;United States;80538
+Central;Michigan;Ann Arbor;United States;48104
+West;Idaho;Caldwell;United States;83605
+West;Washington;Covington;United States;98042
+East;Ohio;Columbus;United States;43229
+West;California;La Mesa;United States;91941
+South;Tennessee;Jackson;United States;38301
+East;New Jersey;Paterson;United States;7501
+South;Louisiana;Lake Charles;United States;70601
+West;California;Anaheim;United States;92804
+Central;Texas;Cedar Hill;United States;75104
+East;Ohio;Medina;United States;44256
+West;New Mexico;Las Cruces;United States;88001
+West;California;Escondido;United States;92025
+South;South Carolina;Mount Pleasant;United States;29464
+Central;Illinois;Romeoville;United States;60441
+West;Washington;Kent;United States;98031
+West;California;San Luis Obispo;United States;93405
+South;Mississippi;Hattiesburg;United States;39401
+East;Pennsylvania;Lancaster;United States;17602
+Central;Texas;Frisco;United States;75034
+Central;Illinois;Aurora;United States;60505
+Central;Illinois;Orland Park;United States;60462
+South;Georgia;Warner Robins;United States;31088
+Central;Illinois;Arlington Heights;United States;60004
+Central;Minnesota;Saint Paul;United States;55106
+South;Mississippi;Jackson;United States;39212
+South;Virginia;Richmond;United States;23223
+West;Idaho;Meridian;United States;83642
+West;California;San Gabriel;United States;91776
+West;Utah;Logan;United States;84321
+West;California;Redwood City;United States;94061
+West;Colorado;Colorado Springs;United States;80906
+East;Connecticut;Bristol;United States;6010
+East;Ohio;Troy;United States;45373
+East;New York;Oceanside;United States;11572
+Central;Minnesota;Rochester;United States;55901
+West;California;La Quinta;United States;92253
+West;California;Long Beach;United States;90805
+West;Colorado;Parker;United States;80134
+West;Utah;West Jordan;United States;84084
+East;Rhode Island;Warwick;United States;2886
+South;Kentucky;Bowling Green;United States;42104
+East;Ohio;Lakewood;United States;44107
+West;California;Davis;United States;95616
+Central;Texas;Corpus Christi;United States;78415
+East;Massachusetts;Andover;United States;1810
+West;California;Pico Rivera;United States;90660
+South;Alabama;Huntsville;United States;35810
+West;Colorado;Englewood;United States;80112
+West;Utah;Orem;United States;84057
+West;California;Fairfield;United States;94533
+South;Florida;Lakeland;United States;33801
+West;Oregon;Medford;United States;97504
+South;North Carolina;Durham;United States;27707
+Central;Texas;Garland;United States;75043
+East;New York;New York City;United States;10035
+South;Arkansas;Fayetteville;United States;72701
+West;California;Modesto;United States;95351
+South;Georgia;East Point;United States;30344
+Central;Wisconsin;Appleton;United States;54915
+Central;South Dakota;Sioux Falls;United States;57103
+East;Connecticut;Fairfield;United States;6824
+East;New York;Jamestown;United States;14701
+South;Kentucky;Louisville;United States;40214
+South;Florida;Deltona;United States;32725
+Central;Kansas;Manhattan;United States;66502
+South;Kentucky;Richmond;United States;40475
+East;Ohio;Bowling Green;United States;43402
+East;New York;Rochester;United States;14609
+South;Florida;Sanford;United States;32771
+West;Utah;Salt Lake City;United States;84106
+Central;Texas;Keller;United States;76248
+Central;Minnesota;Minneapolis;United States;55407
+West;California;Concord;United States;94521
+South;North Carolina;Wilson;United States;27893
+Central;Wisconsin;Waukesha;United States;53186
+Central;Michigan;Roseville;United States;48066
+South;Tennessee;Columbia;United States;38401
+West;California;Vacaville;United States;95687
+South;Florida;Melbourne;United States;32935
+South;Florida;Coral Gables;United States;33134
+South;Virginia;Virginia Beach;United States;23464
+East;Maryland;Clinton;United States;20735
+Central;Indiana;Indianapolis;United States;46203
+West;Oregon;Hillsboro;United States;97123
+South;North Carolina;Concord;United States;28027
+West;New Mexico;Santa Fe;United States;87505
+Central;Iowa;Dubuque;United States;52001
+East;Connecticut;Manchester;United States;6040
+Central;Texas;San Angelo;United States;76903
+South;South Carolina;Florence;United States;29501
+Central;Texas;Richardson;United States;75080
+East;Massachusetts;Leominster;United States;1453
+West;California;Oakland;United States;94601
+Central;Texas;Harlingen;United States;78550
+West;Colorado;Thornton;United States;80229
+South;Georgia;Roswell;United States;30076
+West;Utah;Layton;United States;84041
+South;Tennessee;Nashville;United States;37211
+West;Arizona;Glendale;United States;85301
+Central;Illinois;Frankfort;United States;60423
+Central;Minnesota;Apple Valley;United States;55124
+West;Arizona;Mesa;United States;85204
+East;Ohio;Marion;United States;43302
+West;California;San Clemente;United States;92672
+South;Florida;Tallahassee;United States;32303
+Central;Iowa;Marion;United States;52302
+Central;Illinois;Decatur;United States;62521
+South;Tennessee;Memphis;United States;38109
+Central;Wisconsin;Milwaukee;United States;53209
+South;Florida;Port Saint Lucie;United States;34952
+South;Tennessee;Chattanooga;United States;37421
+South;Virginia;Charlottesville;United States;22901
+West;California;Los Angeles;United States;90032
+South;Virginia;Alexandria;United States;22304
+East;New Jersey;Perth Amboy;United States;8861
+South;North Carolina;Cary;United States;27511
+South;Florida;Jacksonville;United States;32216
+West;California;Los Angeles;United States;90049
+West;California;San Francisco;United States;94110
+West;California;Chico;United States;95928
+East;Massachusetts;Revere;United States;2151
+West;California;Pomona;United States;91767
+South;Virginia;Arlington;United States;22204
+South;North Carolina;Hickory;United States;28601
+Central;Illinois;Carol Stream;United States;60188
+Central;Missouri;Gladstone;United States;64118
+West;California;Lake Forest;United States;92630
+Central;Illinois;Tinley Park;United States;60477
+West;Colorado;Denver;United States;80219
+West;California;Visalia;United States;93277
+Central;Iowa;Waterloo;United States;50701
+Central;Texas;Houston;United States;77041
+East;Rhode Island;Woonsocket;United States;2895
+Central;Texas;Dallas;United States;75081
+Central;Texas;Fort Worth;United States;76106
+Central;Missouri;Saint Charles;United States;63301
+East;Delaware;Dover;United States;19901
+South;North Carolina;Raleigh;United States;27604
+Central;Nebraska;Grand Island;United States;68801
+West;Arizona;Scottsdale;United States;85254
+Central;Indiana;Portage;United States;46368
+Central;Indiana;South Bend;United States;46614
+South;Florida;Hialeah;United States;33012
+Central;Illinois;Champaign;United States;61821
+West;California;Moreno Valley;United States;92553
+West;Colorado;Littleton;United States;80122
+East;New York;Lindenhurst;United States;11757
+South;Tennessee;Lebanon;United States;37087
+Central;Illinois;Oswego;United States;60543
+Central;Texas;Abilene;United States;79605
+Central;Missouri;Independence;United States;64055
+South;South Carolina;Rock Hill;United States;29730
+East;Connecticut;Norwich;United States;6360
+Central;Minnesota;Saint Cloud;United States;56301
+Central;Texas;Dallas;United States;75220
+Central;Illinois;Buffalo Grove;United States;60089
+Central;Nebraska;Fremont;United States;68025
+East;New York;Utica;United States;13501
+East;Connecticut;Shelton;United States;6484
+Central;Texas;Mesquite;United States;75150
+West;California;Salinas;United States;93905
+East;Maryland;Gaithersburg;United States;20877
+East;Pennsylvania;Reading;United States;19601
+Central;Kansas;Wichita;United States;67212
+Central;Minnesota;Eagan;United States;55122
+East;New York;New York City;United States;10024
+West;Oregon;Portland;United States;97206
+South;Louisiana;Lafayette;United States;70506
+Central;Michigan;Mount Pleasant;United States;48858
+East;Connecticut;Middletown;United States;6457
+West;California;Los Angeles;United States;90008
+Central;Illinois;Naperville;United States;60540
+South;Louisiana;Bossier City;United States;71111
+East;Massachusetts;Lawrence;United States;1841
+Central;Michigan;Detroit;United States;48227
+Central;Texas;Mcallen;United States;78501
+West;Nevada;North Las Vegas;United States;89031
+West;Oregon;Tigard;United States;97224
+Central;Texas;Irving;United States;75061
+Central;North Dakota;Fargo;United States;58103
+South;Tennessee;Johnson City;United States;37604
+West;Washington;Auburn;United States;98002
+South;Georgia;Marietta;United States;30062
+Central;Iowa;Burlington;United States;52601
+West;Nevada;Las Vegas;United States;89115
+West;New Mexico;Carlsbad;United States;88220
+West;Arizona;Bullhead City;United States;86442
+Central;Indiana;New Albany;United States;47150
+West;Utah;Pleasant Grove;United States;84062
+South;North Carolina;Greensboro;United States;27405
+Central;Texas;Plano;United States;75023
+Central;Michigan;Canton;United States;48187
+East;Massachusetts;Everett;United States;2149
+South;Florida;Palm Coast;United States;32137
+East;New Jersey;East Orange;United States;7017
+South;Alabama;Montgomery;United States;36116
+West;Arizona;Tempe;United States;85281
+Central;Michigan;Oak Park;United States;48237
+South;Florida;Boynton Beach;United States;33437
+East;Pennsylvania;Philadelphia;United States;19143
+South;Florida;Ormond Beach;United States;32174
+West;California;Yucaipa;United States;92399
+South;Virginia;Chesapeake;United States;23320
+West;California;Pasadena;United States;91104
+Central;Wisconsin;Madison;United States;53711
+East;Maryland;Hagerstown;United States;21740
+West;Colorado;Arvada;United States;80004
+South;Florida;Miami;United States;33178
+Central;Illinois;Freeport;United States;61032
+Central;Kansas;Overland Park;United States;66212
+West;California;Woodland;United States;95695
+Central;Missouri;Saint Peters;United States;63376
+East;New York;Mount Vernon;United States;10550
+Central;Illinois;Glenview;United States;60025
+South;Georgia;Macon;United States;31204
+Central;Michigan;Lincoln Park;United States;48146
+Central;Texas;Lubbock;United States;79424
+Central;Illinois;Palatine;United States;60067
+West;California;Riverside;United States;92503
+South;Florida;Pensacola;United States;32503
+West;California;Lancaster;United States;93534
+West;California;Oxnard;United States;93030
+East;New York;Freeport;United States;11520
+South;Georgia;Woodstock;United States;30188
+East;Ohio;Parma;United States;44134
+East;Pennsylvania;Altoona;United States;16602
+Central;Texas;Coppell;United States;75019
+Central;Minnesota;Cottage Grove;United States;55016
+Central;Illinois;Oak Park;United States;60302
+East;Ohio;Cleveland;United States;44105
+East;Pennsylvania;Philadelphia;United States;19140
+Central;Texas;The Colony;United States;75056
+West;California;Sacramento;United States;95823
+Central;Missouri;Jefferson City;United States;65109
+West;Washington;Marysville;United States;98270
+Central;Michigan;Grand Rapids;United States;49505
+West;California;San Francisco;United States;94122
+South;Tennessee;Murfreesboro;United States;37130
+Central;South Dakota;Aberdeen;United States;57401
+West;Idaho;Pocatello;United States;83201
+Central;Michigan;Sterling Heights;United States;48310
+South;Kentucky;Murray;United States;42071
+West;New Mexico;Clovis;United States;88101
+South;Kentucky;Georgetown;United States;40324
+West;Arizona;Tucson;United States;85705
+East;New Jersey;Belleville;United States;7109
+Central;Indiana;Lafayette;United States;47905
